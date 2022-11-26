@@ -1,11 +1,11 @@
 # Intro-to-CS-and-Programming-Using-Python
 
-Hangman Game
+Hangman Game:
 Implements a text-based hangman game
 
-Word Game
+Word Game:
 Implements a game where the validity of words input 
 by the user is checked
 
-Cipher
+Cipher:
 Encrypts and Decrypts text messages
